@@ -8,8 +8,12 @@ I am a student passionate about technology, especially:
 - 🔒 **Cybersecurity**: System and network security.  
 - 📡 **Raspberry Pi & embedded systems**.  
 
-## 🖼️ Projects  
-My projects will include both code and images that demonstrate what I've worked on. Stay tuned for updates!  
+## 📌 Projects  
+
+### 🌡️ Raspberry Pi Temperature Monitor  
+A simple Python script to monitor Raspberry Pi CPU temperature and alert when overheating.  
+
+🔗 **Code**: [View on GitHub](projects/pi-temp-monitor/temp_monitor.py)  
 
 ## 📫 Contact  
 💼 **Mail**: 1ze@tutamail.com
