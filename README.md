@@ -19,6 +19,7 @@ A simple Python script to monitor Raspberry Pi CPU temperature and alert when ov
 A Python script to check Wi-Fi signal strength and warn if the connection is weak.  
 
 🔗 **Code**: [View on GitHub](projects/wifi-monitor/wifi_signal_monitor.py)
+
 (did both of these scripts a while ago)
 ## 📫 Contact  
 💼 **Mail**: 1ze@tutamail.com
