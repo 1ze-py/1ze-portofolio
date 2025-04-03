@@ -2,7 +2,7 @@
 
 ## 💡 Blinking LED  
 A simple script to blink an LED on Raspberry Pi using the `gpiod` library.  
-🔗 **Code**: [View script](projects/blinking-led/blinking_led.py)  
+🔗 **Code**: [View script](projects/projects/blinking-led)  
 
 ---
 
