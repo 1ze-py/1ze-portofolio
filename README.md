@@ -10,17 +10,10 @@ I am a student passionate about technology, especially:
 
 ## 📌 Projects  
 
-### 🌡️ Raspberry Pi Temperature Monitor  
-A simple Python script to monitor Raspberry Pi CPU temperature and alert when overheating.  
+I work on various programming projects, mainly related to **Raspberry Pi, automation, and Python scripting**.  
 
-🔗 **Code**: [View on GitHub](projects/pi-temp-monitor/temp_monitor.py)  
+➡️ **Check out my projects here:** [Projects List](PROJECTS.md)  
 
-### 📡 Wi-Fi Strength Monitor  
-A Python script to check Wi-Fi signal strength and warn if the connection is weak.  
-
-🔗 **Code**: [View on GitHub](projects/wifi-monitor/wifi_signal_monitor.py)
-
-(did both of these scripts a while ago)
 ## 📫 Contact  
 💼 **Mail**: 1ze@tutamail.com
 
