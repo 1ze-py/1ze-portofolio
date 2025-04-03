@@ -8,7 +8,7 @@ A simple script to blink an LED on Raspberry Pi using the `gpiod` library.
 
 ## 📡 Wi-Fi Strength Monitor  
 Monitors Wi-Fi signal strength and warns if the connection is weak.  
-🔗 **Code**: [View script](projects/wifi-monitor/wifi_signal_monitor.py)  
+🔗 **Code**: [View script](projects/wifi-monitor/wifi_signal_monitor.py) 
 
 ---
 
