@@ -12,7 +12,7 @@ I am a student passionate about technology, especially:
 
 I work on various programming projects, mainly related to **Raspberry Pi, automation, and Python scripting**.  
 
-➡️ **Check out my projects here:** [Projects List](PROJECTS.md)  
+➡️ **Check out my projects here:** [Projects List](projects/Raspberry.md) 
 
 ## 📫 Contact  
 💼 **Mail**: 1ze@tutamail.com
