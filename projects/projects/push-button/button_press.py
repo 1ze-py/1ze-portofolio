@@ -14,7 +14,7 @@ try:
     while True:
         if GPIO.input(bouton_pin) == GPIO.LOW:
             print("Bouton pressé!")
-            time.sleep(0.2)  # Débouncing
+            time.sleep(0.2)  # Débouncing pour laissez la lumiere
             while GPIO.input(bouton_pin) == GPIO.LOW:
                 time.sleep(0.1)  # Attente du relâchement
         time.sleep(0.1)
