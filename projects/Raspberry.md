@@ -28,5 +28,7 @@ A script to check CPU temperature and alert if overheating.
 
 ---
 
-📌 More projects coming soon! Stay tuned.  
+📌 More projects coming ! Stay tuned.  
+📸 **Adding media soon**  
+
 
