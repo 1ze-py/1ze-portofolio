@@ -7,6 +7,13 @@ A simple script to blink an LED on Raspberry Pi using the `gpiod` library.
 
 ---
 
+## 🔘 Push Button Detection  
+Detects when a physical button is pressed using Raspberry Pi GPIO.  
+🔗 **Code**: [View script](projects/push-button/button_press.py)  
+🔍 **Based on research, with improvements for debounce and release logic**
+
+---
+
 ## 📡 Wi-Fi Strength Monitor  
 Monitors Wi-Fi signal strength and warns if the connection is weak.  
 🔗 **Code**: [View script](projects/wifi-monitor/wifi_signal_monitor.py)  
@@ -22,3 +29,4 @@ A script to check CPU temperature and alert if overheating.
 ---
 
 📌 More projects coming soon! Stay tuned.  
+
