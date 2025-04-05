@@ -28,7 +28,16 @@ A script to check CPU temperature and alert if overheating.
 
 ---
 
-📌 More projects coming ! Stay tuned.  
-📸 **Adding media soon**  
+## 🔢 Keypad Code Lock  
+A digital code lock system using a 3x4 matrix keypad and Raspberry Pi GPIOs.  
+🔗 **Code**: [View script](projects/keypad-code-lock/keypad_code_lock.py)  
+📖 **Based on a tutorial** 
+📸 **Adding media soon**
+
+---
+
+📌 More projects coming! Stay tuned.  
+
+
 
 
