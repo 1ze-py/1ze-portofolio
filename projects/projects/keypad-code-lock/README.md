@@ -6,9 +6,9 @@ Un projet permettant de saisir un code secret à l'aide d'un clavier matriciel 3
 Ce projet a été réalisé en suivant un [tutoriel](https://raspberrypi-tutorials.fr/connecter-un-clavier-raspberry-pi-code-lock/) pour comprendre comment interfacer un clavier matriciel avec le Raspberry Pi et gérer la saisie d'un code secret.
 
 ## 🛠️ Matériel Utilisé
-- Raspberry Pi (modèle au choix)
+- Raspberry Pi 
 - Clavier matriciel 3x4
-- Câbles de connexion (mâle-femelle)
+- Câbles de connexion 
 
 ## 🔌 Connexions
 Les broches du clavier sont connectées aux GPIO du Raspberry Pi comme suit :
